@@ -72,7 +72,7 @@ Expand in high-performing cities and states like California and New York.
 
 # Sushma Verma Aspiring Data Analyst | Excel • SQL • Python • Power BI • Tableau • Microsoft Fabric • Machine Learning (learning)
 
-# 💼 LinkedIn: YOUR_LINKEDIN_LINK https://www.linkedin.com/sushmaverma17
+# 💼 LinkedIn: YOUR_LINKEDIN_LINK [https://www.linkedin.com/in/sushmaverma17]
 #  📧 Email:sushmaverma0011@gmail.com
 # 🌐 GitHub: YOUR_GITHUB_LINK 
 https://github.com/sushmaverma-analytics
