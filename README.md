@@ -1,6 +1,8 @@
 # Customer-Superstore-Sales-Analysis-Dashboard-(Tableau)-
 An interactive Tableau dashboard that analyzes sales, profit, and customer performance across US states, cities, months, and customer segments. It helps business users quickly see where money is made, where it is lost, and when sales peak.
-# Image
+
+<img width="1368" height="766" alt="Screenshot 2026-09-20 045212" src="https://github.com/user-attachments/assets/58e37da9-1b29-4b42-a97b-02bd89d00a94" />
+
 
 # 🎯 Project Objective
 
